@@ -1,0 +1,1 @@
+[32mINFO    [0m root:applyAtmChargesAtCpLevel.py:212 {"message":"Fees added/updated successfully","feeId":"90bb60a8-26a0-416a-b1ed-3e139027b16d"}

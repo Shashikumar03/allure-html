@@ -1,0 +1,1 @@
+[32mINFO    [0m root:addIssuanceCharges.py:56 {"message":"Fees added/updated successfully","feeId":"71edd812-ae86-4078-a5df-afb4fbbb7f32"}

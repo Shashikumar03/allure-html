@@ -1,0 +1,1 @@
+[32mINFO    [0m root:card_load_post_method_via_corporate_acc.py:20 Card load response: {'message': 'Approval Queue created for card load with the id: 241231125236361ID1APQ8765516'}

@@ -1,0 +1,1 @@
+[32mINFO    [0m root:CreateAlltypesOfCard.py:53 ('David Jackson', '919813380623', <Response [200]>, 'PjrGg43vFOYWRDJ1pvxaVtJW8cHw3spQCQLPHeevdXc=', '241231125223303ID1CARD7672031')
