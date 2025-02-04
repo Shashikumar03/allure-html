@@ -1,5 +1,0 @@
-[32mINFO    [0m root:CreateAlltypesOfCard.py:53 ('Eric Norman', '919985607630', <Response [200]>, 'PjrGg43vFOYWRDJ1pvxaVtJW8cHw3spQCQLPHeevdXc=', '241231125309673ID1CARD8341620')
-[32mINFO    [0m root:DoMinKycPayload.py:78 200
-[32mINFO    [0m root:card_load_post_method_via_corporate_acc.py:20 Card load response: {'message': 'Approval Queue created for card load with the id: 241231125324189ID1APQ9605532'}
-[32mINFO    [0m root:card_load_post_method_via_corporate_acc.py:20 Card load response: {'message': 'Approval Queue created for card load with the id: 241231125331085ID1APQ8506024'}
-[32mINFO    [0m root:test_indianBank_card.py:300 Approval Queue created for card load with the id: 241231125331085ID1APQ8506024

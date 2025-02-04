@@ -1,1 +1,0 @@
-[32mINFO    [0m root:addDeliverryCharges.py:56 {"message":"Fees added/updated successfully","feeId":"def08204-436f-47a5-8266-c27eba7473c6"}

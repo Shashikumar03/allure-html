@@ -1,0 +1,2 @@
+[32mINFO    [0m root:PersonalisedBulkUploadPayload.py:136 same mobile number: 919552301757
+[32mINFO    [0m root:PersonalisedBulkUploadPayload.py:59 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204190612034ID1BULK9620232'}

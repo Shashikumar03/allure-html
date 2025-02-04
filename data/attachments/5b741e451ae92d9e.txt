@@ -1,0 +1,1 @@
+/Users/shashikushwaha/Documents/workspace/c91_api_automation_ppi/constant/BULK_CARD_UPLOAD_FILES/personalised/per_negative_amount_per20250204235513.csv

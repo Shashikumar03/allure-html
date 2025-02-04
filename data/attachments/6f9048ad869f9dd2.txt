@@ -1,0 +1,1 @@
+[32mINFO    [0m root:digitaCardCreationPayload.py:43 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204175952488ID1BULK3360958'}

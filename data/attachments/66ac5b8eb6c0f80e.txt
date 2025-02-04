@@ -1,1 +1,0 @@
-[32mINFO    [0m root:DoMinKycPayload.py:78 200

@@ -1,0 +1,6 @@
+[1m[31mERROR   [0m root:GetOrgBalance.py:41 Failed: 403, {"message":"Access is denied"}
+[32mINFO    [0m root:digitaCardCreationPayload.py:43 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204180637883ID1BULK9371328'}
+[1m[31mERROR   [0m root:GetOrgBalance.py:41 Failed: 403, {"message":"Access is denied"}
+[32mINFO    [0m root:digitaCardCreationPayload.py:43 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204180748545ID1BULK8284352'}
+[1m[31mERROR   [0m root:GetOrgBalance.py:41 Failed: 403, {"message":"Access is denied"}
+[32mINFO    [0m root:digitaCardCreationPayload.py:43 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204180857868ID1BULK9297474'}

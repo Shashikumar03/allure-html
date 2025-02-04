@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"18f89c3242b1f2ca20f8ed4f574f1fab","name":"TestCases.indianBank","statistic":{"failed":8,"broken":0,"skipped":4,"passed":38,"unknown":0,"total":50}}]}
+{"total":2,"items":[{"uid":"da876963ac32e275ba13773c33229ff8","name":"TestCases.gcBulk","statistic":{"failed":2,"broken":3,"skipped":0,"passed":134,"unknown":0,"total":139}},{"uid":"fd82f72473a979a1e046344be19ec2e2","name":"TestCases.instaKit","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
