@@ -1,0 +1,2 @@
+[31m[1mERROR   [0m root:digitaCardCreationPayload.py:41 bulk upload shashi failed: {"message":"Bulk upload card creation in progress","status":"IN_PROGRESS","bulkUploadId":"250212132438387ID1BULK3920768"}
+[32mINFO    [0m root:digitaCardCreationPayload.py:43 {'message': 'Bulk upload card creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250212132438387ID1BULK3920768'}

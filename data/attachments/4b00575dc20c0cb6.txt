@@ -1,1 +1,0 @@
-/Users/shashikushwaha/Documents/workspace/c91_api_automation_ppi/constant/BULK_CARD_UPLOAD_FILES/personalised/same_mob_>20_records_per20250205000057.csv

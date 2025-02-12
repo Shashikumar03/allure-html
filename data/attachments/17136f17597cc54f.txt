@@ -1,1 +1,0 @@
-[32mINFO    [0m root:PersonalisedBulkUploadPayload.py:59 {'message': 'Cards creation in progress', 'status': 'IN_PROGRESS', 'bulkUploadId': '250204190209255ID1BULK6203130'}

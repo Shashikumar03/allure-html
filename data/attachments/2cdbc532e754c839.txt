@@ -1,0 +1,2 @@
+[31m[1mERROR   [0m root:requestingInstaKit.py:36 {"message":"Kit Quantity should be greater than or equal to 1"}
+[32mINFO    [0m root:verifyInstaKit.py:94 Kit Quantity should be greater than or equal to 1

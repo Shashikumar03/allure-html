@@ -1,1 +1,0 @@
-/Users/shashikushwaha/Documents/workspace/c91_api_automation_ppi/constant/BULK_CARD_UPLOAD_FILES/Digital/nsdl_string_amount_20250204233747.csv
